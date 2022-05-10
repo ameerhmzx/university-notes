@@ -1,2 +1,2 @@
-# university-notes
-Logseq Notes for few university subjects
+- # University Notes
+  Logseq Notes for few university subjects

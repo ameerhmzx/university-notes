@@ -1,2 +1,3 @@
 - [[Introduction To Management]]
 - [[Psychology]]
+- [[Computer Architecture]]

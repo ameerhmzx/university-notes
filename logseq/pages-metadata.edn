@@ -10,9 +10,12 @@
  {:block/name "card",
   :block/created-at 1652169850964,
   :block/updated-at 1652169850964}
+ {:block/name "computer architecture",
+  :block/created-at 1652177062112,
+  :block/updated-at 1652195271374}
  {:block/name "contents",
   :block/created-at 1652169850964,
-  :block/updated-at 1652169978667}
+  :block/updated-at 1652177062113}
  {:block/name "doing",
   :block/created-at 1652169850964,
   :block/updated-at 1652169850964}
@@ -32,14 +35,14 @@
   :block/created-at 1652169850964,
   :block/updated-at 1652169850964}
  {:block/name "may 10th, 2022",
-  :block/created-at 1652170409600,
-  :block/updated-at 1652170409600}
+  :block/created-at 1652177044822,
+  :block/updated-at 1652177044822}
  {:block/name "now",
   :block/created-at 1652169850964,
   :block/updated-at 1652169850964}
  {:block/name "psychology",
   :block/created-at 1652169938542,
-  :block/updated-at 1652169992831}
+  :block/updated-at 1652170616281}
  {:block/name "readme",
   :block/created-at 1652169800168,
   :block/updated-at 1652170023320}

@@ -3,7 +3,7 @@
 	- $$\text{Performance} = \dfrac {1} {\text{Execution Time}}$$
 	- $X$ is n times faster than $Y$
 		- id:: 627a38dd-af50-4544-af8d-e10d28c86d27
-		  $$n = \dfrac {\text{PerformanceX}} {\text{PerformanceY}} = \dfrac{\text{ExecutionTimeX}}{\text{ExecutionTimeY}}$$
+		  $$n = \dfrac {\text{PerformanceX}} {\text{PerformanceY}} = \dfrac{\text{ExecutionTimeY}}{\text{ExecutionTimeX}}$$
 		- `Example`: Time taken to run a program
 		  10s on A, 
 		  15s on B

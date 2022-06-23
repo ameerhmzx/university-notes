@@ -14,6 +14,8 @@ jobs:
         uses: pengx17/logseq-publish@v0.1
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: adding katex
+        run: sed -i 's/<head>/&<script src=\"static\/js\/katex.min.js\"><\/script>/' www/index.html
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:

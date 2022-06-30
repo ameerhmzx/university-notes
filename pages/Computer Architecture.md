@@ -1,5 +1,4 @@
 - ## Performance
-  collapsed:: true
 	- $$\text{Performance} = \dfrac {1} {\text{Execution Time}}$$
 	- $X$ is n times faster than $Y$
 		- id:: 627a38dd-af50-4544-af8d-e10d28c86d27
@@ -18,7 +17,6 @@
 		- $$\text{Clock Cycle Time} = \dfrac{1}{\text{Clock Rate}}$$
 		- $$\text{Clock Cycles} = \text{Instruction Count} * \text{Cycles per Instruction (CPI)}$$
 - ## Data Path
-  collapsed:: true
 	- **Complete Diagram**
 		- ![image.png](../assets/image_1652180681450_0.png)
 	- **ALU Control Bits**

@@ -319,3 +319,98 @@
 			- To create a cooperative work environment, leaders need strong interpersonal skills that allow them to build bridges, maintain useful connections within their network, share information and resolve disputes.
 		- Moral  Drop
 			- Members of the organization nor prove their abilities through rational and accurate administration can be the reason of low morale between individuals. Low morale can subsequently lead to a lack of discipline and will for employees
+- # Personality
+  collapsed:: true
+	- Personality has been derived from the Latin word “persona” which means “mask” used by the actors to change their appearance. It is the combination of an individual thoughts, characteristics, behaviors, attitude, idea and habits.
+	- Views In Personality
+		- **ideographic view:** of personality sees each person as completely unique individuals. People cannot be compared with one another because their psychological makeups are integrated wholes and not a series of comparable characteristics.
+		- **nomothetic view:** states that personality traits can be compared between people and where each person places on a scale of that trait. Their unique personality is thus observed by mapping their position along these traits.
+	- Types of Personality
+		- Extrovert
+			- This type has the tendency to live mostly outside the like to live with others.
+			- Those individuals are highly socialized and have contact with outside people in the society.
+			- They want to join other groups who are more in number.
+		- Introvert
+			- Introvert is opposite to extrovert.
+			- Those people are always live alone in their rooms and do not want to go outside.
+			- They have their own imaginary world.
+			- They are teachers, scientists, thinkers and philosophers.
+		- Ambivert
+			- Between extrovert and introvert personalities there is a third one type called ambivert.
+			- People belonging to this type enjoy both the groups and attend them.
+			- They have middle mind and want to live in both parties.
+			- Sometimes they join outside people but sometimes they live in their own rooms.
+	- Personality Development Tips
+		- Should be a better listener
+		- Good conversation
+		- Be positive in outlook and attitude
+		- More reading and building interest
+		- Should be a good courteous
+		- Interaction with new people
+		- Helpful to other people
+		- Give respect if you want respect
+		- Confident about yourself
+	- Five Personality Traits
+		- Openness to experience
+			- People who are high in openness enjoy adventure. They're curious and appreciate art, imagination and new things.
+			- The motto of the open individual might be "Variety is the spice of life."
+		- Conscientiousness
+			- People who are conscientious are organized and have a strong sense of duty.
+			- They're dependable, disciplined and achievement-focused.
+			- You won't find conscientious types jetting off on round-the-world journeys with only a backpack; they're planners.
+		- Extraversion
+			- Extraversion versus introversion is possibly the most recognizable personality trait of the Big Five.
+			- The more of an extravert someone is, the more of a social butterfly they are.
+			- Extraverts are chatty, sociable and draw energy from crowds. They tend to be assertive and cheerful in their social interactions.
+		- Agreeableness
+			- Agreeableness measures the extent of a person's warmth and kindness.
+			- The more agreeable someone is, the more likely they are to be trusting, helpful and compassionate.
+			- Disagreeable people are cold and suspicious of others, and they're less likely to cooperate.
+		- Neuroticism
+			- They worries about everything, obsesses over germs and disease and once quits a job because his anxiety over not having access to a private bathroom is too overwhelming.
+			- People high in neuroticism worry frequently and easily slip into anxiety and depression.
+	- Type A vs Type B
+	  collapsed:: true
+		- |Type A| Type B |
+		  |-------|--------|
+		  | More Goal-oriented | Reflective & innovative |
+		  | Full of fluctuations | Relatively calm |
+		  | Sometimes easily irritated | Even tempered |
+		- ![image.png](../assets/image_1656572194528_0.png)
+		- Type A:
+			- Driven by:
+				- Ambitious
+				- Rigidly organized
+				- Highly status-conscious
+				- Sensitive
+				- Impatient
+				- Take more than they can handle
+				- Want other people to get to the point
+				- Proactive
+				- Concerned with time management
+			- Problems they face:
+				- Free-floating hostility
+				- Time urgency and impatience
+				- A competitive drive
+			- Health Risks
+				- Greater rate of cardiovascular disease
+				- Greater rate of heart attacks
+				- Increased risk for premature death from all causes
+				- Not gender-specific
+		- Type B
+			- Type are typically:
+				- Stress Handling
+				- Lack Of Urgency
+				- Relaxed
+				- Less Competitive
+				- Patient
+				- Non-aggressive
+				- Socializing And Enjoying
+			- Effects:
+				- Healthy life
+				- you’re a better friend
+				- you take the long view
+				- you do well with risk and failure
+				- you see good in people
+				- creativity flows from you
+				- you know how to enjoy that moment

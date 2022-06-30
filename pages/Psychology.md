@@ -430,7 +430,186 @@
 			- To create a cooperative work environment, leaders need strong interpersonal skills that allow them to build bridges, maintain useful connections within their network, share information and resolve disputes.
 		- Moral  Drop
 			- Members of the organization nor prove their abilities through rational and accurate administration can be the reason of low morale between individuals. Low morale can subsequently lead to a lack of discipline and will for employees
-- # Part 7 - Coping
+- # Part 7 - Intelligence
+  collapsed:: true
+	- Intelligence is an inferred process that humans use to explain the different degrees of adaptive success in people’s behavior.
+	- The capacity to understand the world, think rationally, and use resources effectively when faced with challenges.
+	  collapsed:: true
+		- The ability to understand and deal with people, objects, and symbols
+		- The ability to act purposefully, think rationally, and deal effectively with the environment
+	- Mental Age
+	  collapsed:: true
+		- Binet and Simon used Mental age to  distinguish “bright” from “dull” children
+		- Mental age is a concept related to intelligence. It looks at how a specific individual (usually a child), at a specific age, performs intellectually, compared to average intellectual performance for that individual's actual chronological age (i.e. time elapsed since birth).
+	- Chronological age
+	  collapsed:: true
+		- Chronological age is a measure of an individual's age based on the calendar date on which he or she was born
+	- What is IQ?
+	  collapsed:: true
+		- Performance was described as an intelligence quotient (IQ) which was imply the ratio of mental age to chronological age multiplied by 100:
+		- IQ=MA/CA x 100
+	- Emotional Intelligence
+	  collapsed:: true
+		- EQ (Emotional Intelligence): Some psychologists broaden the concept of intelligence even further beyond the intellectual realm to include emotions. (EQ)
+		- Emotional intelligence is the set of skills that underlie the accurate assessment, evaluation, expression, and regulation of emotions.
+		- Emotional intelligence is the ability to understand their own emotions,  the emotions of others, and to act  appropriately using these emotions.
+		- Emotional intelligence never stops growing. Because we are always evolving as people, EQ is something that must be nurtured.
+		- points:
+			- Self Awareness
+			  collapsed:: true
+				- Recognize internal feelings
+				- Recognize how someone is feeling, without them having to say anything.
+				- Using your gut feeling to guide decisions.
+			- Managing emotions
+			  collapsed:: true
+				- Finding ways to  handle emotions that are appropriate to the situations
+			- Motivation
+			  collapsed:: true
+				- Using self control to channel emotions towards a goal
+			- Empathy
+			  collapsed:: true
+				- Understanding the emotional perspective of other person
+			- Handling Relationships
+			  collapsed:: true
+				- Using personal information and information of others to handle social relationships and to develop interpersonal skills
+	- IQ vs EQ
+	  collapsed:: true
+		- IQ
+			- Measure	of	an	individual’s	personal  information bank
+			- Memory, vocabulary and visual motor skills
+			- IQ is set and peaks at age 17
+			- Remains constant through adulthood
+			- Established by mid-teens
+			- Can’t increase
+			- Predicts only 10% – 20% of life success
+		- EQ
+			- Not fixed
+			- Can be improved throughout life
+		- 90% of the success of outstanding  leaders is attributable to emotional  intelligence (EQ), which is twice as  important than intellectual intelligence  (IQ).
+		- EI is the strongest predictor of workplace performance.
+		- 90% of top performers have high emotional intelligence.
+		- People with average IQs outperform those with the highest IQs 70% of the time.
+		- Decades of research now point to EI as being the critical factor that sets star performers apart from the rest of the pack
+	- What are emotions
+	  collapsed:: true
+		- An Emotion is a natural instinctive state of mind deriving from one’s circumstances, mood or relationship with others.
+		- Two types of Emotions:
+		  collapsed:: true
+			- Positive Emotions
+			  collapsed:: true
+				- Love
+				- Appreciation
+				- Happiness
+				- Hope
+				- Confidence
+				- Patient
+				- Trust
+				- Vulnerable
+			- Negative Emotions
+			  collapsed:: true
+				- Fear
+				- Anger
+				- Guilt
+				- Depression
+				- Jealousy
+				- Anxiety
+				- Shame
+				- Regret
+				- Worried
+				- Sad
+	- Experiencing Emotions
+	  collapsed:: true
+		- Emotional experiences have three components
+		  collapsed:: true
+			- Subjective feelings
+			- Expressive behavior
+			- Physiological responses
+	- Subjective feeling
+	  collapsed:: true
+		- That is how the individual interprets what they are feeling at any point.
+		- These are inner personal experiences. Subjective feelings in response to an emotion cannot be readily observed.
+		- We also don't always experience pure forms of each emotion. Mixed emotions over different events or situations in our lives are common.
+		- When faced with starting a new job you might feel both excited and nervous.
+		- Getting married or having a child might be marked by a wide variety of emotions ranging from joy to anxiety. These emotions might occur simultaneously, or you might feel them one after another.
+	- Physiological responses
+	  collapsed:: true
+		- This involves bodily changes which occur when we experience an emotion. This involves the operation of the brain as well as the Autonomic Nervous System and it also involves the cells in our body.
+		- It is often our awareness of the arousal that makes us suddenly aware that we are experiencing an emotion.
+	- Expressive behavior
+	  collapsed:: true
+		- This refers to the outward signs that an emotion is being experienced.
+		- Such behavior can be intentional or Unintentional and includes
+		- facial expressions as well as body language.
+	- Factors Influencing Emotions
+	  collapsed:: true
+		- Personality
+		- Weather
+		- Stress
+		- Social activities
+		- Sleep
+		- Exercise
+		- Age
+		- Gender
+		- Health
+	- Components of Emotional quotient
+	  collapsed:: true
+		- `Intrapersonal`	–	Self-regard,	emotional	self  awareness, independence, self-actualization.
+		- `Interpersonal`- Empathy, Social responsibility and interpersonal relationships
+		- `Adaptability`- reality testing, flexibility, problem solving
+		- `Stress management`- stress tolerance, impulse control
+		- `General mood`- optimism, happiness
+	- Characteristics of emotionally intelligent people
+	  collapsed:: true
+		- Knowing one’s feelings
+		- Managing emotions & feelings appropriately
+		- Able to motivate self
+		- Ability to persist in face of frustrations
+		- Ability to control impulses & delay gratification
+		- Ability to empathize with others
+		- Capacity to HOPE
+		- Social competencies
+	- How to increase EQ
+	  collapsed:: true
+		- Conduct a “personal inventory.”
+		- Analyze the setting & identify skills needed.
+		- Enlist trusted friends.
+		- Focus on a few competencies.
+		- Practice, practice, practice.
+		- Be observant and reflective.
+		- Don’t expect immediate results.
+		- Learn from your mistakes.
+		- Acknowledge your successes.
+	- EQ values
+	  collapsed:: true
+		- Creativity
+		- Stress Management
+		- Decision Making
+		- Relationship Building
+		- Can be enhanced
+		- What else is important to you?
+	- How to develop a higher sense of emotional intelligence
+	  collapsed:: true
+		- Become emotionally literate; Label your  feelings, rather than labeling people or  situations. ( Say “I feel” instead of “I know”)
+		- Distinguish between thoughts and feelings.
+		- Take more responsibility for your feelings.
+		- Use your feelings to help make decisions
+		- Use feelings to set and achieve goals
+		- Be aware of how situations impact your thoughts, feelings and physical reactions and how these may influence your behaviours.
+		- Listen to verbal cues and observe non-verbal cues of others
+		- Use “I” statements not “you” statements
+		- STOPP (stop, take breath, observe, pull back, practice/proceed)
+		- Don’t immediately believe all of your thoughts-challenge them!
+		- Do regular self-care activities
+		- Feel energized, not angry.
+		- Validate other people's feelings.
+		- Use feelings to help show respect  for others.
+		- Don't advise, command, control,  criticize, judge or lecture to others.
+		- Avoid people who invalidate  you.
+	- Some IQ Test Questions
+	  collapsed:: true
+		- Water lilies double in area every 24 hours.  At the beginning of the summer, there is one water lily on a lake.  It takes 60 days for the lake to become covered with water lilies.  On what day is the lake half-covered?
+		- A farmer has 17 sheep.  All but 9 break through a hole in the fence and wander away.  How many are left?
+- # Part 8 - Coping
   collapsed:: true
 	- 4 major coping strategies of stress
 		- Behavioral
@@ -447,7 +626,7 @@
 				- writing journal
 				- writing letter (sending is optional)
 		- Spiritual / Religious
-- # Part 8 - Personality
+- # Part 9 - Personality
   collapsed:: true
 	- Personality has been derived from the Latin word `persona` which means `mask` used by the actors to change their appearance. It is the combination of an individual thoughts, characteristics, behaviors, attitude, idea and habits.
 	- As a professional term in psychology, personality is a person's unique patterns of thought, emotion, and behavior. This means that personality is all the characteristics of who we are as unique individuals.

@@ -573,3 +573,25 @@
 		  collapsed:: true
 			- Around the world, many organizations are coping with labor shortages and peak work demands by hiring employees on a temporary or part-time basis.
 			- `contingent workers` - Temporary, freelance, or contract workers whose employment is contingent on demand for their services
+- # Chapter 13 - Human Resource Management
+  collapsed:: true
+	- **how to negotiate pay.**
+		- Do you want the job?
+			- This is perhaps the most important question you must answer. Set pay considerations aside and weigh the pros and cons of the job. The following questions are the ones you should think about: Will this job help me embark on a rewarding career path? Do I fit well with the culture? Am I happy with the location? If you do want the job, then it’s time to think about your salary offer.
+		- Research what similar companies pay new hires.
+			- It’s important to consider a variety of sources to ensure that you understand the pay norm for your job offer. Start with your school’s career services counselors. They have worked with many students in your situation and the companies that hire them. Also, check out online resources that provide information about pay. There are many you can choose from. For example, the U.S. Bureau of Labor Statistics publishes the Occupational Outlook Handbook, which lists pay information for a variety of jobs and occupations. Consider websites such as Glassdoor (www.glassdoor.com), where you may find employee self-reports of pay for similar jobs, and, perhaps even for your prospective employer. There are many others, including jobstar.org, salary.com, and payscale.com.
+		- Make sense of the data.
+			- Look at whether companies in different industries pay similarly. For example, companies in manufacturing industries generally pay more than companies in service industries.
+			- Also, watch for whether pay differs based on location. It will cost you a lot more to rent an apartment in San Francisco than in Fargo, North Dakota.
+		- Prepare for the pay discussion.
+			- Think about your reservation pay rate; that is, the lowest amount you are willing to accept. Come up with a range of pay rather than a single amount. It is important to show flexibility and signal that you are willing to be a team player. Prepare the rationale for making your request.
+			- Always make reference to the data. Companies will give consideration to objective data.
+			- Never base your request on statements such as “I’m worth it.” Job  offers are based on future potential. Remember that you have yet to prove yourself.
+		- Have the discussion.
+			- Thank the organization’s representative for making the job offer and express your excitement about the opportunity.
+			- Briefly summarize how you will become a productive member of the team. Before discussing pay, ask your other questions.
+			- Then, make your case for higher pay. Listen carefully to the representative’s response. For example, you may hear that every new hire makes the same rate. Or the organization’s policy is to start new hires with lower pay and award bonuses based on performance.
+			- Possible responses include denying your request, accepting your request, or offering a lower additional amount than requested. In any event, be sure to thank the company representative for their consideration.
+		- Communicate your decision.
+			- If you plan to accept the offer, tell the representative that you will do so promptly after receiving written confirmation.
+			- If you choose not to accept the offer, express your appreciation for the organization’s consideration and follow up with an e-mail or letter. Remember, they have taken time to consider you. And you may want to work for that company in the future.

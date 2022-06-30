@@ -1,3 +1,4 @@
 - [[Introduction To Management]]
 - [[Psychology]]
 - [[Computer Architecture]]
+- [[Introduction To Data Science]]

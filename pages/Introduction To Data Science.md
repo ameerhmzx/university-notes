@@ -1,0 +1,101 @@
+- # Offline Data Manipulation
+  collapsed:: true
+	- Varieties of data
+		- `Structured` - data is stored, processed and manipulated in a traditional Relational Database Management System (RDBMS)
+		- `Unstructured` - data that is commonly generated from human activities and doesn't fit into a structured database format
+		- `Semi-Structured` - Data doesn’t fit into a structured database system, but is none-the-less structured by tags that are useful for creating a form of order and hierarchy in the data
+- # Parallel Databases
+  collapsed:: true
+	- Architectures
+	  collapsed:: true
+		- Shared disk
+		- Shared Nothing
+	- Partitioning
+	  collapsed:: true
+		- Round-robin
+			- Send the I th tuple inserted in the relation to disk i mod n.
+		- Hash partitioning
+		- Range partitioning ==imp==
+			- Choose an attribute as the partitioning attribute. A partitioning vector [vo, v1, ..., vn-2]	is chosen. Let v be the partitioning attribute value of a tuple.
+				- Tuples such that v <= v(i+1) go to disk I + 1.
+				- Tuples with v < v(0) go to disk 0 and
+				- Tuples with v >= v(n-2) go to disk n-1.
+			- e.g., with a partitioning vector [5,11], a tuple with partitioning  attribute value of 2 will go to disk 0, a tuple with value 8 will  go to disk 1, while a tuple with value 20 will go to disk2.
+			- Steps
+				- Select Parameter
+				- Sort based on parameter
+				- Calculate size of partition
+					- n = rows / no of partitions
+				- Range Vector
+	- Parallel Processing of Relational Operations
+	  collapsed:: true
+		- Parallel Sort
+			- Range-Partitioning Sort
+			- Parallel External Sort-Merge
+		- Parallel Join
+		- Partitioned Join
+- # Map Reduce
+  collapsed:: true
+	- MapReduce is a programming model for data processing
+	- MapReduce divides the workload into multiple independent tasks and schedule them across cluster nodes
+	- In MapReduce data elements are always structured as key-value (i.e., (K, V)) pairs
+	- The map and reduce functions receive and emit (K, V) pairs
+	- Two fundamental pieces:
+	  collapsed:: true
+		- Map Step:
+			- Master node takes large problem input and slices it into smaller sub-problems; distributes these to worker nodes.
+			- Worker node may do this again; leads to a multi-level tree structure
+			- Worker processes smaller problem and hands back to the master
+		- Reduce Step
+			- Master node takes the answer to the sub-problem and combines them in a predefined way to get the output/answer to original problem
+	- Bird Eye's View
+	  collapsed:: true
+		- ![image.png](../assets/image_1652344549402_0.png)
+		- In MapReduce, chunks are processed in isolation by tasks called `Mappers`
+		- The outputs from the mappers are denoted as intermediate outputs (IOs) and are brought into a second set of tasks called `Reducers`
+		- The process of bringing together IOs into a set of Reducers is known as `shuffling process`
+		- The Reducers produce the final outputs (FOs)
+		- Overall, MapReduce breaks the data flow into two phases, map phase and reduce phase
+	- Example
+		- ![image.png](../assets/image_1652344705164_0.png)
+- # NoSQL
+  collapsed:: true
+	- Stands for Not Only SQL
+	- NoSQL databases is an approach to data management that is useful for very large sets of distributed data
+	- A flexible database used for big data and real-time web-apps
+	- A NoSQL database provides a mechanism for storage and retrieval of data that employs less constrained consistency models than traditional relational databases. Consistency is traded in favour of Availability
+	- NoSQL systems are also referred to as  “NotonlySQL” to emphasize that they do not prohibit Structured Query Language (SQL), in fact allow SQL-like query languages to be used
+	- Key features (advantages):
+		- non-relational
+		- don’t require schema
+		- data are replicated to multiple nodes (so, identical & fault-tolerant) and can be partitioned:
+		- down nodes easily replaced
+		- no single point of failure
+		- horizontal scalable
+		- cheap, easy to implement (open-source)
+		- massive write performance
+		- fast key-value access
+	- Disadvantages:
+		- Don’t fully support relational features
+			- no join, group by, order by operations (except within partitions)
+			- no referential integrity constraints across partitions
+		- No declarative query language (e.g., SQL) more programming
+		- Relaxed ACID (see CAP theorem) fewer guarantees
+		- No easy integration with other applications that support SQL
+	- NoSQL classifications:
+		- Key-Value Stores
+		- Column Databases
+		- Graph Database
+		- Document Databases
+	- Amdahl’s Law
+		- How much faster will a parallel program run?
+		- Suppose that the sequential execution of a program takes T1 time units and the parallel execution on p processors/machines takes Tp time units
+		- Suppose that out of the entire execution of the program, `s` fraction of it is not parallelizable while `1-s` fraction is parallelizable
+		- Then the speedup (Amdahl’s formula):
+			- ![image.png](../assets/image_1652346537116_0.png)
+		- Example
+			- Suppose that:
+				- 80% of your program can be parallelized
+				- 4 machines are used to run your parallel version of the program
+			- The speedup you can get according to Amdahl’s law is:
+			- ![image.png](../assets/image_1652346615834_0.png)

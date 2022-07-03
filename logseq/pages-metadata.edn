@@ -12,7 +12,7 @@
   :block/updated-at 1652169850964}
  {:block/name "computer architecture",
   :block/created-at 1652177062112,
-  :block/updated-at 1652195271374}
+  :block/updated-at 1656327738605}
  {:block/name "contents",
   :block/created-at 1652169850964,
   :block/updated-at 1652340852985}
@@ -45,7 +45,7 @@
   :block/updated-at 1652169850964}
  {:block/name "psychology",
   :block/created-at 1652169938542,
-  :block/updated-at 1652413124645}
+  :block/updated-at 1656523353165}
  {:block/name "readme",
   :block/created-at 1652169800168,
   :block/updated-at 1652170023320}

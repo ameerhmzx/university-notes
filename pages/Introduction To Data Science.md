@@ -7,11 +7,9 @@
 - # Parallel Databases
   collapsed:: true
 	- Architectures
-	  collapsed:: true
 		- Shared disk
 		- Shared Nothing
 	- Partitioning
-	  collapsed:: true
 		- Round-robin
 			- Send the I th tuple inserted in the relation to disk i mod n.
 		- Hash partitioning
@@ -99,3 +97,15 @@
 				- 4 machines are used to run your parallel version of the program
 			- The speedup you can get according to Amdahl’s law is:
 			- ![image.png](../assets/image_1652346615834_0.png)
+- # Statistical Models
+	- $$ \text{Variance}(x) = \frac{\sum_{i=1}^{n}(x_i-\bar{X})^2}{N} $$
+	- $$ \text{Cov}(x, y) = \frac{\sum^{n}_{i=1}(x_i-\bar{X})(y_i-\bar{Y})}{n-1} $$
+	- $r$ is a Pearson’s Correlation Coefficient or standardized covariance (unitless)
+	- $$ r=\frac{\text{cov}(x,y)}{\sqrt{\text{var}(x)\text{var}(y)}} = \frac{\sum^{n}_{i=1}(x_i-\bar{X})(y_i-\bar{Y})}{\sqrt{\sum_{i=1}^{n}(x_i-\bar{X})^2\sum_{i=1}^{n}(y_i-\bar{Y})^2}} $$
+	- Linear Regression
+		- $$ y=\alpha + \beta x $$
+		- $$ \alpha = \frac{(\sum y)(\sum x^2)- (\sum x)(\sum xy))}{n(\sum x^2)-(\sum x)^2} $$
+		- $$ \beta = \frac{n(\sum xy)- (\sum x)(\sum y)}{n(\sum x^2)-(\sum x)^2} $$
+- # Entropy
+	- Formula
+	- $$ E(D) = - \sum_{i=1}^C Pr(C_i) \log_2Pr(C_i)  $$

@@ -840,3 +840,20 @@
 			- `lean organization` - An organization that understands what customers want, identifies customer value by analyzing all activities required to produce products, and then optimizes the entire process from the customer’s perspective
 			- With flexible manufacturing, companies have the ability to quickly readjust assembly lines to make products to order. Using technology such as computer-controlled factory equipment, intranets, industrial robots, barcode scanners, digital printers, and logistics software, companies can manufacture, assemble, and ship customized products with customized packaging to customers in incredibly short timeframes.
 			- Technology also is important in the continual dialogue with customers. Using extensive databases, companies can keep track of customers’ likes and dislikes. And the Internet has made it possible for companies to have ongoing dialogues with customers to learn about and respond to their exact preferences.
+- # Project Management
+  collapsed:: true
+	- `project` - A one-time-only set of activities that has a definite beginning and ending point in time
+	- Project Management
+		- The task of getting a project’s activities done on time, within budget, and according to specification
+		- PROJECT MANAGEMENT PROCESS
+		  collapsed:: true
+			- ![image.png](../assets/image_1656933594168_0.png)
+		- THE ROLE OF THE PROJECT MANAGER
+		  collapsed:: true
+			- The temporary nature of projects makes managing them different from, say, overseeing a production line or preparing a weekly tally of costs on an ongoing basis. The one-shot nature of the work makes project managers the organizational equivalent of a hired gunman. There’s a job to be done. It has to be defined—in detail. And the project manager is responsible for how it’s done.
+			- The only real influence project managers have is their communication skills and their power of persuasion. To make matters worse, team members seldom work on just one project. They’re usually assigned to two or three at any given time. So project managers end up competing with each other to focus a worker’s attention on his or her particular project.
+	- Scenario Planning
+		- `Scenerio` - A consistent view of what the future is likely to be
+		- also can be described as `contingency planning`
+		- scenario planning is useful in anticipating events that can be anticipated, it’s difficult to forecast random events—the major surprises and aberrations that can’t be foreseen
+		- Planning tools and techniques can help managers prepare confidently for the future. But they should remember that all the tools we’ve described in this module are just that—tools. They will never replace the manager’s skills and capabilities in using the information gained to develop effective and efficient plans.

@@ -574,6 +574,7 @@
 			- Around the world, many organizations are coping with labor shortages and peak work demands by hiring employees on a temporary or part-time basis.
 			- `contingent workers` - Temporary, freelance, or contract workers whose employment is contingent on demand for their services
 - # Chapter 12 - Organizing Around Teams
+  collapsed:: true
 	- Developing Your Coaching Skills
 		- Know the goal
 		  collapsed:: true
@@ -739,3 +740,103 @@
 		- Communicate your decision.
 			- If you plan to accept the offer, tell the representative that you will do so promptly after receiving written confirmation.
 			- If you choose not to accept the offer, express your appreciation for the organization’s consideration and follow up with an e-mail or letter. Remember, they have taken time to consider you. And you may want to work for that company in the future.
+- # Managing Operations Module
+  collapsed:: true
+	- `operations management` - The transformation process that converts resources into finished goods and services
+	- Operations management is important to organizations and managers for three reasons:
+		- it encompasses both services and manufacturing
+		- it’s important in effectively and efficiently managing productivity
+		- it plays a strategic role in an organization’s competitive success
+	- Roles of Operations Management
+		- Services and Manufacturing
+		  collapsed:: true
+			- `manufacturing organizations` - Organizations that produce physical goods
+			- `service organizations` - Organizations that produce nonphysical products in the form of services
+		- Managing Productivity
+		  collapsed:: true
+			- Productivity is a composite of people and operations variables. To improve productivity, managers must focus on both.
+		- Strategic Role of Operations Management
+		  collapsed:: true
+			- To develop modern, computer-based, and technologically advanced facilities that fully integrated manufacturing operations into strategic planning decisions.
+	- `value` - The performance characteristics, features, and attributes, and any other aspects of goods and services for which customers are willing to give up resources
+	- `value chain` - The entire series of organizational work activities that add value at each step from raw materials to finished product
+	- Value Chain Management
+		- `value chain management` - The process of managing the sequence of activities and information along the entire value chain
+		- Every organization needs customers if it’s going to survive and prosper. Even a not-for-profit organization must have “customers” who use its services or purchase its products. Customers want some type of value from the goods and services they purchase or use, and these customers decide what has value. Organizations must provide that value to attract and keep customers.
+	- Goal of Value Chain Management
+	  collapsed:: true
+		- In value chain management, ultimately customers are the ones with power. They’re the ones who define what value is and how it’s created and provided. Using value chain management, managers hope to find that unique combination that offers customers solutions to truly meet their unique needs incredibly fast and at a price that can’t be matched by competitors.
+		- the goal of value chain management is to create a value chain strategy that meets and exceeds customers’ needs and desires and allows for full and seamless integration among all members of the chain. A good value chain involves a sequence of participants working together as a team, each adding some component of value—such as faster assembly, more accurate information, better customer response and service, and so forth—to the overall process.
+	- Benefits of Value Chain Management
+	  collapsed:: true
+		- Collaborating with external and internal partners in creating and managing a successful value chain strategy requires significant investments in time, energy, and other resources, and a serious commitment by all chain partners. Given these demands, why would managers ever choose to implement value chain management? A survey of manufacturers noted four primary benefits of value chain management: improved procurement, improved logistics, improved product development, and enhanced customer order management.
+	- MANAGING operations using value chain management
+		- Value Chain Strategy
+			- ![image.png](../assets/image_1656932385959_0.png)
+			- COORDINATION AND COLLABORATION
+			  collapsed:: true
+				- For the value chain to achieve its goal of meeting and exceeding customers’ needs and desires, collaborative relationships among all chain participants must exist.26 Each partner must identify things he or she may not value but that customers do. Sharing information and being flexible as far as who in the value chain does what are important steps in building coordination and collaboration. This sharing of information and analysis requires more open communication among the various value chain partners.
+			- TECHNOLOGY INVESTMENT
+			  collapsed:: true
+				- Successful value chain management isn’t possible without a significant investment in information technology. The payoff from this investment, however, is that information technology can be used to restructure the value chain to better serve end users.
+			- ORGANIZATIONAL PROCESSES
+			  collapsed:: true
+				- The ways that organizational work is done
+			- LEADERSHIP
+			  collapsed:: true
+				- Successful value chain management isn’t possible without strong and committed leadership. From top organizational levels to lower levels, managers must support, facilitate, and promote the implementation and ongoing practice of value chain management. Managers must seriously commit to identifying what value is, how that value can best be provided, and how successful those efforts have been.
+			- EMPLOYEES/HUMAN RESOURCES
+			  collapsed:: true
+				- We know from our discussions of management theories throughout this text that employees are an organization’s most important resource. Without employees, no products are produced and no services are delivered—in fact, no organized efforts in the pursuit of common goals would be possible. So not surprisingly, employees play an important role in value chain management. The three main human resource requirements for value chain management are flexible approaches to job design, an effective hiring process, and ongoing training.
+			- ORGANIZATIONAL CULTURE AND ATTITUDES
+			  collapsed:: true
+				- The last requirement for value chain management is having a supportive organizational culture and attitudes. From our extensive description of value chain management, you could probably guess the type of organizational culture that’s going to support its successful implementation! Those cultural attitudes include sharing, collaborating, openness, flexibility, mutual respect, and trust. These attitudes encompass not only the internal partners in the value chain, but extend to external partners as well.
+		- Obstacles to Value Chain Management
+			- ![image.png](../assets/image_1656932403522_0.png)
+			- ORGANIZATIONAL BARRIERS
+			  collapsed:: true
+				- Organizational barriers are among the most difficult obstacles to handle. These barriers include refusal or reluctance to share information, reluctance to shake up the status quo, and security issues. Without shared information, close coordination and collaboration is impossible. And the reluctance or refusal of employees to shake up the status quo can impede efforts toward value chain management and prevent its successful implementation
+			- CULTURAL ATTITUDES
+			  collapsed:: true
+				- Unsupportive cultural attitudes—especially trust and control—also can be obstacles to value chain management. The trust issue is a critical one, both lack of trust and too much trust. To be effective, partners in a value chain must trust each other. A mutual respect for, and honesty about, each partner’s activities all along the chain is essential. When that trust doesn’t exist, the partners will be reluctant to share information, capabilities, and processes. But too much trust also can be a problem. Just about any organization is vulnerable to theft of intellectual property
+			- REQUIRED CAPABILITIES
+			  collapsed:: true
+				- We know from our earlier discussion of requirements for the successful implementation of value chain management that value chain partners need numerous capabilities. Several of these capabilities—coordination and collaboration, the ability to configure products to satisfy customers and suppliers, and the ability to educate internal and external partners—aren’t easy, but they’re essential to capturing and exploiting the value chain
+			- PEOPLE
+			  collapsed:: true
+				- The final obstacles to successful value chain management can be an organization’s people. Without their unwavering commitment to do whatever it takes, value chain management won’t be successful. If employees refuse to be flexible in their work—how and with whom they work—collaboration and cooperation throughout the value chain will be hard to achieve.
+	- CURRENT issues in managing operations
+		- Technology’s Role in Operations Management
+		  collapsed:: true
+			- Global positioning systems (GPS) are changing a number of enterprises from shipping to shopping, from health care to law enforcement, and even farming.39 Like many other technologies, GPS was invented for military use to track weapons and personnel as they moved. Now GPS is being used to track shipping fleets, revitalize consumer products such as watches or photos, and monitor parolees or sex offenders.
+			- Technology used by two national chains tells managers how much food they need to prepare by counting vehicles in the drive through line and factoring in demand for current promotional and popular staple items. Even Domino’s is using a new point-of-sale system to attract customers and streamline online orders.40
+			- Technology is also allowing organizations to control costs, particularly in the areas of predictive maintenance, remote diagnostics, and utility cost savings.
+			- some devices have the ability to initiate e-mail or signal a pager at a supplier, the maintenance department, or contractor describing the specific problem and requesting parts and service
+		- `quality` - The ability of a product or service to reliably do what it’s supposed to do and to satisfy customer expectations
+		- Quality Initiatives
+			- PLANNING FOR QUALITY
+			  collapsed:: true
+				- Managers must have quality improvement goals and strategies and plans to achieve those goals.
+			- ORGANIZING AND LEADING FOR QUALITY
+			  collapsed:: true
+				- Because quality improvement initiatives are carried out by organizational employees, it’s important for managers to look at how they can best organize and lead them
+				- Organizations with extensive and successful quality improvement programs tend to rely on two important people approaches: cross-functional work teams and self directed or empowered work teams. Because achieving product quality is something that all employees from upper to lower levels must participate in, it’s not surprising that quality-driven organizations rely on well-trained, flexible, and empowered employees.
+			- CONTROLLING FOR QUALITY
+			  collapsed:: true
+				- Quality improvement initiatives aren’t possible without having some way to monitor and evaluate their progress. Whether it involves standards for inventory control, defect rate, raw materials procurement, or other operations management areas, controlling for quality is important.
+		- Quality Goals
+			- To publicly demonstrate their quality commitment, many organizations worldwide have pursued challenging quality goals—the two best-known being ISO 9000 and Six Sigma.
+			- ISO 9000
+			  collapsed:: true
+				- A series of international quality management standards that set uniform guidelines for processes to ensure products conform to customer requirements
+				  id:: 62c2c0fd-7d30-4f20-8f5b-088db07e4f38
+				- established by the International Organization for Standardization (www.iso.org), which set uniform guidelines for processes to ensure that products conform to customer requirements.
+			- SIX SIGMA
+			  collapsed:: true
+				- A quality program designed to reduce defects and help lower costs, save time, and improve customer satisfaction
+				- It’s based on the statistical standard that establishes a goal of no more than 3.4 defects per million units or procedures.
+		- Mass Customization and Lean Organization
+			- `mass customization` - Providing customers with a product when, where, and how they want it
+			- `lean organization` - An organization that understands what customers want, identifies customer value by analyzing all activities required to produce products, and then optimizes the entire process from the customer’s perspective
+			- With flexible manufacturing, companies have the ability to quickly readjust assembly lines to make products to order. Using technology such as computer-controlled factory equipment, intranets, industrial robots, barcode scanners, digital printers, and logistics software, companies can manufacture, assemble, and ship customized products with customized packaging to customers in incredibly short timeframes.
+			- Technology also is important in the continual dialogue with customers. Using extensive databases, companies can keep track of customers’ likes and dislikes. And the Internet has made it possible for companies to have ongoing dialogues with customers to learn about and respond to their exact preferences.

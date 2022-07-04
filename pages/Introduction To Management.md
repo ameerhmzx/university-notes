@@ -573,6 +573,150 @@
 		  collapsed:: true
 			- Around the world, many organizations are coping with labor shortages and peak work demands by hiring employees on a temporary or part-time basis.
 			- `contingent workers` - Temporary, freelance, or contract workers whose employment is contingent on demand for their services
+- # Chapter 12 - Organizing Around Teams
+	- Developing Your Coaching Skills
+		- Know the goal
+		  collapsed:: true
+			- One of the characteristics of an effective team, as you’ll see in this chapter, is having clear goals. Teams that are able to achieve high levels of performance have a clear understanding of the goals to be achieved. Team members will be committed to the team’s goals, know what they’re expected to accomplish, and understand how they need to work together to achieve these goals.
+		- Know your team
+		  collapsed:: true
+			- Just as important as having clear goals and knowing the goals is knowing the skills, abilities, and motivations of each team member. An effective coach knows what each team member brings to the team and where each person might contribute most effectively.
+		- Build a relationship of mutual trust
+		  collapsed:: true
+			- The foundation of an excellent team-coach relationship is mutual trust. Again, you’ll see this discussed in the chapter as one of the characteristics of an effective team. Without mutual trust, a coach won’t be able to be honest in guiding the team and in giving feedback and team members won’t be open to receiving the feedback and being guided.
+		- Provide feedback
+		  collapsed:: true
+			- Effective coaches recognize and understand the value and importance of giving continual performance feedback—both positive and corrective—to their team. Anyone who has played a sport knows that a good coach constantly gives feedback so that you can get better at it. If you want your team to be effective, team members need to know where they stand and where they need to “step up their game.” (See Chapter 18’s It’s Your Career for advice on how to be effective at giving feedback.)
+		- Create an atmosphere of accountability.
+		  collapsed:: true
+			- In a team environment where work is done collectively, it’s important that team members and the coach are accountable to each other and to the team. What does it mean to be accountable? Be responsible. Follow through on commitments to each other. Don’t make excuses. Don’t whine. Don’t point fingers at each other. That’s what it  means to be accountable. And it’s important!
+	- Examples of Formal Work Groups
+		- `Command groups` — Groups determined by the organizational chart and composed of individuals who report directly to a given manager.
+		- `Task groups` — Groups composed of individuals brought together to complete a specific job task; their existence is often temporary because when the task is completed, the group disbands.
+		- `Cross-functional teams` — Groups that bring together the knowledge and skills of individuals from various work areas or groups whose members have been trained to do each others’ jobs.
+		- `Self-managed teams` — Groups that are essentially independent and that, in addition to their own tasks, take on traditional managerial responsibilities such as hiring, planning and scheduling, and evaluating performance.
+	- `Group` - Two or more interacting and interdependent individuals who come together to achieve specific goals
+	- Stages of Group Development
+		- forming stage
+		  collapsed:: true
+			- The first stage of group development in which people join the group and then define the group’s purpose, structure, and leadership
+		- storming stage
+		  collapsed:: true
+			- The second stage of group development, characterized by intragroup conflict
+		- norming stage
+		  collapsed:: true
+			- The third stage of group development, characterized by close relationships and cohesiveness performing stage The fourth stage of group development when the group is fully functional and works on group task
+		- adjourning
+		  collapsed:: true
+			- The final stage of group development for temporary groups during which group members are concerned with wrapping up activities rather than task performance
+	- Group Structure
+		- ROLES
+		  collapsed:: true
+			- Behavior patterns expected of someone occupying a given position in a social unit
+		- NORMS
+		  collapsed:: true
+			- Standards or expectations that are accepted and shared by a group’s members
+		- CONFORMITY
+		  collapsed:: true
+			- `groupthink` - When a group exerts extensive pressure on an individual to align his or her opinion with others’ opinions
+			  id:: 62c2b811-f575-4499-820d-61a2c9abf304
+		- STATUS SYSTEMS
+		  collapsed:: true
+			- `status` - A prestige grading, position, or rank within a group
+		- GROUP SIZE
+		  collapsed:: true
+			- `social loafing` - The tendency for individuals to expend less effort when working collectively than when working individually
+		- GROUP COHESIVENESS
+		  collapsed:: true
+			- The degree to which group members are attracted to one another and share the group’s goals
+	- Group Processes
+		- Determines group performance and satisfaction concerns the processes that go on within a work group such as communication, decision making, conflict management, and the like. These processes are important to understanding work groups because they influence group performance and satisfaction positively or negatively.
+		- GROUP DECISION MAKING
+		- CONFLICT MANAGEMENT
+		  collapsed:: true
+			- `conflict` - Perceived incompatible differences that result in interference or opposition
+			- `traditional view of conflict` - The view that all conflict is bad and must be avoided
+			- `human relations view of conflict` - The view that conflict is a natural and inevitable outcome in any group
+			- `interactionist view of conflict` - The view that some conflict is necessary for a group to perform effectively
+			- `functional conflicts` - Conflicts that support a group’s goals and improve its performance
+			- `dysfunctional conflicts` - Conflicts that prevent a group from achieving its goals
+			- `task conflict` - Conflicts over content and goals of the work
+			- `relationship conflict` - Conflict based on interpersonal relationships
+			- `process conflict` - Conflict over how work gets done
+	- Group Tasks
+	- The Difference Between Groups and Teams
+		- `work teams` - Groups whose members work intensely on a specific, common goal using their positive synergy, individual and mutual accountability, and complementary skills
+		- | **Work Teams** | **Work Groups** |
+		  | Leadership role is shared | One leader clearly in charge |
+		  | Accountable to self and team | Accountable only to self |
+		  | Team creates specific purpose | Purpose is same as broader organizational purpose |
+		  | Work is done collectively | Work is done individually |
+		  | Meetings characterized by open-ended discussion and collaborative problem-solving | Meetings characterized by efficiency; no collaboration or open-ended discussion |
+		  | Performance is measured directly by evaluating collective work output | Performance is measured indirectly according to its influence on others |
+		  | Work is decided upon and done together | Work is decided upon by group leader and delegated to individual group members |
+		  | Can be quickly assembled, deployed, refocused, and disbanded | - |
+	- Types of Work Teams
+		- problem-solving team
+		  collapsed:: true
+			- A team from the same department or functional area that’s involved in efforts to improve work activities or to solve specific problems
+		- self-managed work team
+		  collapsed:: true
+			- A type of work team that operates without a manager and is responsible for a complete work process or segment
+		- cross-functional team
+		  collapsed:: true
+			- A work team composed of individuals from various functional specialties
+		- virtual team
+		  collapsed:: true
+			- A type of work team that uses technology to link physically dispersed members in order to achieve a common goal
+	- Creating Effective Work Teams
+		- CLEAR GOALS
+		  collapsed:: true
+			- High-performance teams have a clear understanding of the goal to be achieved. Members are committed to the team’s goals, know what they’re expected to accomplish, and understand how they will work together to achieve these goals.
+		- RELEVANT SKILLS
+		  collapsed:: true
+			- Effective teams are composed of competent individuals who have the necessary technical and interpersonal skills to achieve the desired goals while working well together. This last point is important because not everyone who is technically competent has the interpersonal skills to work well as a team member.
+		- MUTUAL TRUST
+		  collapsed:: true
+			- Effective teams are characterized by high mutual trust among members. That is, members believe in each other’s ability, character, and integrity. But as you probably know from personal relationships, trust is fragile. Maintaining this trust requires careful attention by managers.
+		- UNIFIED COMMITMENT
+		  collapsed:: true
+			- Unified commitment is characterized by dedication to the team’s goals and a willingness to expend extraordinary amounts of energy to achieve them. Members of an effective team exhibit intense loyalty and dedication to the team and are willing to do whatever it takes to help their team succeed.
+		- GOOD COMMUNICATION
+		  collapsed:: true
+			- Not surprisingly, effective teams are characterized by good communication. Members convey messages, verbally and nonverbally, between each other in ways that are readily and clearly understood. Also, feedback helps guide team members and correct misunderstandings. Like a couple who has been together for many years, members of high-performing teams are able to quickly and efficiently share ideas and feelings.
+		- NEGOTIATING SKILLS
+		  collapsed:: true
+			- Effective teams are continually making adjustments to who does what. This flexibility requires team members to possess negotiating skills. Because problems and relationships regularly change within teams, members need to be able to confront and reconcile differences.
+		- APPROPRIATE LEADERSHIP
+		  collapsed:: true
+			- Effective leaders are important. They can motivate a team to follow them through the most difficult situations. How? By clarifying goals, demonstrating that change is possible by overcoming inertia, increasing the self confidence of team members, and helping members to more fully realize their potential. Increasingly, effective team leaders act as coaches and facilitators. They help guide and support the team, but don’t control it. Studies have shown that when a team leader’s emotional displays—positive and negative—are used at appropriate times, the team’s functioning and performance can be enhanced
+		- INTERNAL AND EXTERNAL SUPPORT
+		  collapsed:: true
+			- The final condition necessary for an effective team is a supportive climate. Internally, the team should have a sound infrastructure, which means proper training, a clear and reasonable measurement system that team members can use to evaluate their overall performance, an incentive program that recognizes and rewards team activities, and a supportive human resource system. The right infrastructure should support members and reinforce behaviors that lead to high levels of performance. Externally, managers should provide the team with the resources needed to get the job done.
+	- Managing Global Teams
+		- Two characteristics of today’s organizations are obvious: They’re global, and work
+		  is increasingly done by teams. These two aspects mean that any manager is likely to
+		  have to manage a global team.
+		- GROUP MEMBER RESOURCES IN GLOBAL TEAMS
+		  collapsed:: true
+			- In global organizations, understanding the relationship between group performance and group member resources is more challenging because of the unique cultural characteristics represented by members of a global team. In addition to recognizing team members’ abilities, skills, knowledge, and personality, managers need to be familiar with and clearly understand the cultural characteristics of the groups and the group members they manage.
+		- GROUP STRUCTURE
+		  collapsed:: true
+			- Some of the structural areas where we see differences in managing global teams include conformity, status, social loafing, and cohesiveness.
+		- GROUP PROCESSES
+		  collapsed:: true
+			- The processes global teams use to do their work can be particularly challenging for managers. For one thing, communication issues often arise because not all team members may be fluent in the team’s working language. This can lead to inaccuracies, misunderstandings, and inefficiencies.
+			- However, research also has shown that a multicultural global team is better able to capitalize on the diversity of ideas represented if a wide range of information is used.
+		- MANAGER’S ROLE
+		  collapsed:: true
+			- Despite the challenges associated with managing global teams, managers can provide the group with an environment in which efficiency and effectiveness are enhanced
+			- First, because communication skills are vital, managers should focus on developing those skills. Also, as we’ve said earlier, managers must consider cultural differences when deciding what type of global team to use
+			- Finally, it’s vital that managers be sensitive to the unique differences of each member of the global team, but it’s also important that team members be sensitive to each other
+	- Building Team Skills
+		- With the emphasis on teams in today’s organizations, managers need to recognize that people don’t automatically know how to be part of a team or to be an effective team member. Like any behavior, sometimes you have to learn about the skill and then keep practicing and reinforcing it. In building team skills, managers must view their role as more of being a coach and developing team members in order to create more committed, collaborative, and inclusive teams.
+	- Understanding Social Networks
+		- `social network structure` - The patterns of informal connections among individuals within a group
+		- Managers need to understand the social networks and social relationships of work groups. Why? Because a group’s informal social relationships can help or hinder its effectiveness.
 - # Chapter 13 - Human Resource Management
   collapsed:: true
 	- **how to negotiate pay.**

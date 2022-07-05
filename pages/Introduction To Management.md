@@ -719,8 +719,8 @@
 		- `social network structure` - The patterns of informal connections among individuals within a group
 		- Managers need to understand the social networks and social relationships of work groups. Why? Because a group’s informal social relationships can help or hinder its effectiveness.
 - # Chapter 13 - Human Resource Management
-  collapsed:: true
 	- **how to negotiate pay.**
+	  collapsed:: true
 		- Do you want the job?
 			- This is perhaps the most important question you must answer. Set pay considerations aside and weigh the pros and cons of the job. The following questions are the ones you should think about: Will this job help me embark on a rewarding career path? Do I fit well with the culture? Am I happy with the location? If you do want the job, then it’s time to think about your salary offer.
 		- Research what similar companies pay new hires.
@@ -740,6 +740,115 @@
 		- Communicate your decision.
 			- If you plan to accept the offer, tell the representative that you will do so promptly after receiving written confirmation.
 			- If you choose not to accept the offer, express your appreciation for the organization’s consideration and follow up with an e-mail or letter. Remember, they have taken time to consider you. And you may want to work for that company in the future.
+	- Why HRM is important
+	  collapsed:: true
+		- it can be a significant source of competitive advantage.
+		- HRM is an important part of organizational strategies.
+		- the way organizations treat their people has been found to significantly impact organizational performance.
+			- one study reported that improv- ing work practices could increase market value by as much as 30 percent.
+		- High Performance Work Practices
+			- Work practices that lead to both high individual and high organizational performance
+			- Practices
+				- Self-managed teams
+				- Decentralized decision making
+				- Training programs to develop knowledge, skills, and abilities
+				- Flexible job assignments
+				- Open communication
+				- Performance-based compensation
+				- Staffing based on person-job and person-organization fit
+				- Extensive employee involvement
+				- Giving employees more control over decision making
+				- Increasing employee access to information
+	- Factors Effecting HRM
+	  collapsed:: true
+		- The Economy
+		- Labor Unions
+			- An organization that represents workers and seeks to protect their interests through collective bargaining
+		- Laws and Rulings
+			- affirmative action
+				- Organizational programs that enhance the status of members of protected groups
+			- work councils
+				- Groups of nominated or elected employees who must be consulted when management makes decisions involving personnel
+			- board representative
+				- Employees who sit on a company’s board of directors and represent the interests of the firm’s employees
+		- Demography
+	- Identifying and selecting competent employees
+	  collapsed:: true
+		- Human Resource Planning
+			- Ensuring that the organization has the right number and kinds of capable people in the right places and at the right times
+			- It involves
+				- Current Assesment
+				- Future HR needs
+				- Scrutiny in selection process
+		- Recruitment and Decruitment
+		- Selection
+			- Type of selection tools
+				- Application Forms
+				- Written Tests
+				- Performance-Simulation Tests
+				- Interviews
+				- Background Investigations
+				- Physical Examinations
+	- Provided employees with needed skills
+	  collapsed:: true
+		- Orientation
+		- Employee Training
+			- On-the-job Training
+				- Employees learn how to do tasks simply by performing them, usually after an initial introduction to the task.
+			- Job rotation Training
+				- Employees work at different jobs in a particular area, getting exposure to a variety of tasks.
+			- Mentoring and coaching
+				- Employees work with an experienced worker who provides information, support, and encouragement; also called apprenticeships in certain industries.
+			- Experiential exercises
+				- Employees participate in role-playing, simulations, or other face-to-face types of training.
+			- Workbooks/manuals
+				- Employees refer to training workbooks and manuals for information.
+			- Classroom lectures
+				- Employees attend lectures designed to convey specific information.
+	- Retaining competent, high-performing employees
+	  collapsed:: true
+		- Employee Performance Management
+			- PERFORMANCE APPRAISAL METHODS
+				- Establishes performance standards used to evaluate employee performance
+				- Methods includes
+					- Written Essay
+						- Evaluator writes a description of employee’s strengths and weaknesses, past performance, and potential; provides suggestions for improvement.
+					- Critical Incident
+						- Evaluator focuses on critical behaviors that separate effective and ineffective performance.
+					- Graphic Rating Scale
+						- Popular method that lists a set of performance factors and an incremental scale; evaluator goes down the list and rates employee on each factor.
+					- BARS (Behaviorally Anchored Rating Scale)
+						- Popular approach that combines elements from critical incident and graphic rating scale; evaluator uses a rating scale, but items are examples of actual job behaviors.
+					- Multiperson Comparison
+						- Employees are rated in comparison to others in work group.
+					- MBO
+						- Employees are evaluated on how well they accomplish specific goals.
+					- 360-Degree Appraisal
+						- Utilizes feedback from supervisors, employees, and coworkers.
+		- Compensation and BenefitS
+			- ![image.png](../assets/image_1657050466527_0.png)
+	- CONTEMPORARY issues in managing human resources
+	  collapsed:: true
+		- Managing Downsizing
+			- Tips for downsizing
+				- Treat everyone with respect.
+				- Communicate openly and honestly:
+					- Inform those being let go as soon as possible.
+					- Tell surviving employees the new goals and expectations.
+					- Explain impact of layoffs.
+				- Follow any laws regulating severance pay or benefits.
+				- Provide support/counseling for surviving (remaining) employees.
+				- Reassign roles according to individuals’ talents and backgrounds.
+				- Focus on boosting morale:
+					- Offer individualized reassurance.
+					- Continue to communicate, especially one-on-one.
+					- Remain involved and available.
+				- Have a plan for the empty office spaces/cubicles so it isn’t so depressing for surviving employees.
+		- Managing Sexual Harassment
+			- Any unwanted action or activity of a sexual nature that explicitly or implicitly affects an individual’s employment, performance, or work environment
+		- Controlling HR Costs
+			- EMPLOYEE HEALTH CARE COSTS
+			- EMPLOYEE PENSION PLAN COSTS
 - # Managing Operations Module
   collapsed:: true
 	- `operations management` - The transformation process that converts resources into finished goods and services

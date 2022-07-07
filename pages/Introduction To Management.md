@@ -284,21 +284,16 @@
 				- `cloud computing` - Refers to storing and accessing data on the Internet rather than on a computer’s hard drive or a company’s network.
 				- `INTERNET OF THINGS` - Allows everyday “things” to generate and store and share data across the Internet
 - # Chapter 9 - Strategic Planning
-  collapsed:: true
 	- What Is Strategic Management?
-	  collapsed:: true
 		- What managers do to develop the organization’s strategies
 	- strategies
-	  collapsed:: true
 		- The plans for how the organization will do what it’s in business to do, how it will compete successfully, and how it will attract and satisfy its customers in order to achieve its goals
 	- business model - How a company is going to make money
 	- Why Is Strategic Management Important?
-	  collapsed:: true
 		- The most significant one is that it can make a difference in how well an organization performs.
 		- Another reason it’s important has to do with the fact that managers in organizations of all types and sizes face continually changing situations
 		- strategic management is important because organizations are complex and diverse. Each part needs to work together toward achieving the organization’s goals; strategic management helps do this
 	- Strategic Management Process
-	  collapsed:: true
 		- ![image.png](../assets/image_1652003159126_0.png)
 		- A six-step process that encompasses strategic planning, implementation, and evaluation
 		- Step 1: Identifying the Organization’s Current Mission, Goals, and Strategies
@@ -348,7 +343,6 @@
 		  collapsed:: true
 			- How effective have the strategies been at helping the organization reach its goals? What adjustments are necessary?
 	- Types of Strategies
-	  collapsed:: true
 		- Corporate strategies
 		  collapsed:: true
 			- Top level managers
@@ -396,14 +390,12 @@
 			- front line managers
 			- A strategy used by an organization’s various functional departments to support the competitive strategy
 	- Choosing a Competitive Strategy `Porter`
-	  collapsed:: true
 		- According to Porter, no firm can be successful by trying to be all things to all people. He proposed that managers select a strategy that will give the organization a competitive advantage, either from having lower costs than all other industry competitors or by being significantly different from competitors.
 		- `Cost leadership strategy` - When an organization competes on the basis of having the lowest costs (costs or expenses, not prices) in its industry, it’s following a cost leadership strategy.
 		- `Differentiation strategy` - A company that competes by offering unique products that are widely valued by customers is following a differentiation strategy
 		- `Focus strategy` - involves a cost advantage (cost focus) or a differentiation advantage (differentiation focus) in a narrow segment or niche.
 		- What happens if an organization can’t develop a cost or a differentiation advantage? Porter called that being `stuck in the middle`
 	- Current strategic management issues
-	  collapsed:: true
 		- The Need for Strategic Leadership
 		  collapsed:: true
 			- Strategic Leadership - The ability to anticipate, envision, maintain flexibility, think strategically, and work with others in the organization to initiate changes that will create a viable and valuable future for the organization
@@ -719,6 +711,7 @@
 		- `social network structure` - The patterns of informal connections among individuals within a group
 		- Managers need to understand the social networks and social relationships of work groups. Why? Because a group’s informal social relationships can help or hinder its effectiveness.
 - # Chapter 13 - Human Resource Management
+  collapsed:: true
 	- **how to negotiate pay.**
 	  collapsed:: true
 		- Do you want the job?

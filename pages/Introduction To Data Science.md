@@ -1,10 +1,22 @@
-- # Offline Data Manipulation
+- # 1 - Introduction
+  collapsed:: true
+	- Big data is any data that is expensive to manage and hard to get information from:
+	  collapsed:: true
+		- Volume
+		- Velocity
+		- Variety & Complexity
+	- Data Science: An area that manages, manipulates, extracts, and interprets knowledge from tremendous amount of data.
+- # 2 - Offline Data Manipulation
   collapsed:: true
 	- Varieties of data
 		- `Structured` - data is stored, processed and manipulated in a traditional Relational Database Management System (RDBMS)
 		- `Unstructured` - data that is commonly generated from human activities and doesn't fit into a structured database format
 		- `Semi-Structured` - Data doesn’t fit into a structured database system, but is none-the-less structured by tags that are useful for creating a form of order and hierarchy in the data
-- # Parallel Databases
+	- Responsibilities of Data Scientist:
+		- Manipulation and analysis of big data
+		- Prediction from big data
+		- Visualization of big data
+- # 3 - Parallel Databases
   collapsed:: true
 	- Architectures
 		- Shared disk
@@ -25,8 +37,21 @@
 				- Calculate size of partition
 					- n = rows / no of partitions
 				- Range Vector
+	- Inter Query Parallelism
+		- Queries/transactions execute in parallel with one another.
+		- Increases transaction throughput
+		- Easiest to implement in shared memory arch
+		- Difficult in shared nothing or shared disk arch
+	- Intra Query Parallelism
+		- Execution of a single query in parallel on multiple processors/disks
+		- Important for speeding up long-running queries
+		- Two complementary forms of intraquery parallelism:
+			- **Intraoperation Parallelism** – parallelize the execution of each
+			  individual operation in the query.
+			- **Interoperation Parallelism** – execute the different operations in
+			  a query expression in parallel. (e.g., pipelining)
+		-
 	- Parallel Processing of Relational Operations
-	  collapsed:: true
 		- Parallel Sort
 			- Range-Partitioning Sort
 			- Parallel External Sort-Merge
@@ -57,7 +82,6 @@
 	- Example
 		- ![image.png](../assets/image_1652344705164_0.png)
 - # NoSQL
-  collapsed:: true
 	- Stands for Not Only SQL
 	- NoSQL databases is an approach to data management that is useful for very large sets of distributed data
 	- A flexible database used for big data and real-time web-apps
@@ -98,7 +122,6 @@
 			- The speedup you can get according to Amdahl’s law is:
 			- ![image.png](../assets/image_1652346615834_0.png)
 - # Statistical Models
-  collapsed:: true
 	- $$ \text{Variance}(x) = \frac{\sum_{i=1}^{n}(x_i-\bar{X})^2}{N} $$
 	- $$ \text{Cov}(x, y) = \frac{\sum^{n}_{i=1}(x_i-\bar{X})(y_i-\bar{Y})}{n-1} $$
 	- $r$ is a Pearson’s Correlation Coefficient or standardized covariance (unitless)
@@ -108,6 +131,6 @@
 		- $$ \alpha = \frac{(\sum y)(\sum x^2)- (\sum x)(\sum xy))}{n(\sum x^2)-(\sum x)^2} $$
 		- $$ \beta = \frac{n(\sum xy)- (\sum x)(\sum y)}{n(\sum x^2)-(\sum x)^2} $$
 - # Entropy
-  collapsed:: true
 	- Formula
 	- $$ E(D) = - \sum_{i=1}^C Pr(C_i) \log_2Pr(C_i)  $$
+-
